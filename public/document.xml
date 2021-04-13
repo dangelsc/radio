@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<notaExportacion xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" noNamespaceSchemaLocation="notaExportacion.xsd">
+  <cabecera>
+    <numeroFactura>123</numeroFactura>
+    <direccion>la paz 123</direccion>
+    <fechaEmision>2018-08-22T15:11:36.169</fechaEmision>
+    <codigoTipoDocumentoIdentidad>1</codigoTipoDocumentoIdentidad>
+    <cuf>1eecd7b50eef5e5bde755ca05f735</cuf>
+    <numeroDocumento>X63726372</numeroDocumento>
+    <complemento>A12</complemento>
+    <codigoSucursal>9999</codigoSucursal>
+    <codigoPuntoVenta>999</codigoPuntoVenta>
+    <nombreRazonSocial>Nombre o Razon Social</nombreRazonSocial>
+    <direccionComprador>Calle Loayza Jujuy</direccionComprador>
+    <montoTotal>50.00</montoTotal>
+    <montoTotalMoneda>15.00</montoTotalMoneda>
+    <montoTotalPuerto>32.00</montoTotalPuerto>
+    <otrosMontos>0</otrosMontos>
+    <incoterm>CIF-VANCOUVER</incoterm>
+    <puertoDestino>IQUIQUE</puertoDestino>
+    <lugarDestino>CHILE-IQUIQUE</lugarDestino>
+    <codigoPais>2</codigoPais>
+    <codigoTipoMoneda>321.165</codigoTipoMoneda>
+    <precioValorBruto>1321.5</precioValorBruto>
+    <gastosTransporteFrontera>2133.10</gastosTransporteFrontera>
+    <gastosSeguroFrontera>21312.21</gastosSeguroFrontera>
+    <totalFobFrontera>213.23</totalFobFrontera>
+    <montoTransporteFrontera>123123.34</montoTransporteFrontera>
+    <montoSeguroInternacional>1.50</montoSeguroInternacional>
+    <montoDescuento>12354</montoDescuento>
+    <codigoCliente>123</codigoCliente>
+    <codigoDocumentoSector>11</codigoDocumentoSector>
+    <nitEmisor>123456026</nitEmisor>
+    <codigoMetodoPago>1</codigoMetodoPago>
+    <tipoCambio>6.97</tipoCambio>
+    <leyenda>Ley N° 453: Los servicios deben suministrarse en condiciones de inocuidad, calidad y seguridad</leyenda>
+    <usuario>SA21</usuario>
+    <numeroTarjeta>34564564654</numeroTarjeta>
+  </cabecera>
+  <detalle>
+    <actividadEconomica>123123</actividadEconomica>
+    <codigoProductoSin>21312</codigoProductoSin>
+    <codigoProducto>1323</codigoProducto>
+    <codigoNandina>13465</codigoNandina>
+    <descripcion>Renovacion de Tarjeta</descripcion>
+    <cantidad>1</cantidad>
+    <precioUnitario>50.00</precioUnitario>
+    <unidadMedida>FARDOS</unidadMedida>
+    <montoDescuento>1</montoDescuento>
+    <subTotal>50.00</subTotal>
+  </detalle>
+</notaExportacion>
